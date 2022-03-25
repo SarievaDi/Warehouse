@@ -1,0 +1,7 @@
+C:\Users\Диана\source\repos\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\Диана\source\repos\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\Диана\source\repos\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\Диана\source\repos\Warehouse\obj\Debug\Warehouse.csprojAssemblyReference.cache
+C:\Users\Диана\source\repos\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\Диана\source\repos\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\Диана\source\repos\Warehouse\obj\Debug\Warehouse.pdb
